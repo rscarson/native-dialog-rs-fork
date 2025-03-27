@@ -1,4 +1,4 @@
-use native_dialog::{FileDialog, MessageDialog, MessageType};
+use native_dialog_fork::{FileDialog, MessageDialog, MessageType};
 
 fn main() {
     let path = FileDialog::new().show_open_single_file();

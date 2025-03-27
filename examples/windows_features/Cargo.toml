@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Balthild <ibalthild@gmail.com>"]
 edition = "2018"
 
-[dependencies.native-dialog]
+[dependencies.native-dialog-fork]
 # version = "0.2.2"
 path = "../.."
 features = ["windows_dpi_awareness", "windows_visual_styles"]

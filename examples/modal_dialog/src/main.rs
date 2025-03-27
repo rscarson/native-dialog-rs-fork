@@ -1,4 +1,4 @@
-use native_dialog::{FileDialog, MessageDialog};
+use native_dialog_fork::{FileDialog, MessageDialog};
 use winit::application::ApplicationHandler;
 use winit::dpi::LogicalSize;
 use winit::event::{ElementState, MouseButton, WindowEvent};
