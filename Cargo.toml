@@ -1,12 +1,12 @@
 [package]
-name = "native-dialog"
+name = "native-dialog-fork"
 version = "0.7.0"
-authors = ["balthild <ibalthild@gmail.com>"]
+authors = ["balthild <ibalthild@gmail.com>", "Richard Carson"]
 edition = "2021"
 description = "A library to display dialogs. Supports GNU/Linux, BSD Unix, macOS and Windows."
 license = "MIT"
 documentation = "https://docs.rs/native-dialog"
-repository = "https://github.com/balthild/native-dialog-rs"
+repository = "https://github.com/rscarson/native-dialog-rs-fork"
 
 [dependencies]
 thiserror = "1.0.65"
